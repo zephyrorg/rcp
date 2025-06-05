@@ -1,4 +1,3 @@
-version: '3.7'
 services:
   rcp:
     image: ghcr.io/zephyrorg/rcp
